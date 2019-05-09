@@ -5,7 +5,12 @@ Within the program itself I have given the description for each and every step h
 Algorithms And Data Structure  --  Assignment 01
 
 
-Done and Submitted by                                                                                Submitted To
+Done and Submitted by                                                                               
 
-  Syju Soundar Rajan                                                                            Francesco Andreussi
+  Syju Soundar Rajan                                                                           
   119503
+                                                                                              
+                                                                                              Submitted To
+                                                                                              
+                                                                                                Francesco Andreussi
+                                                                                            
